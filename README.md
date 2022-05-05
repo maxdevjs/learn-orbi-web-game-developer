@@ -13,3 +13,11 @@ Play the game: [maxdevjs.github.io/learn-orbi-web-game-developer-tic-tac-toe](ht
 or check the code (click on the image below 👇):
 
 [![screenshot](./img/01-basic-css-cosmetic.png?raw=true "screenshot")](https://github.com/maxdevjs/learn-orbi-web-game-developer-tic-tac-toe)
+
+### Dino
+
+Play the game: [maxdevjs.github.io/learn-dio-dino](https://maxdevjs.github.io/learn-dio-dino/)
+
+or check the code (click on the image below 👇):
+
+[![screenshot](./img/dino.png?raw=true "screenshot")](https://github.com/maxdevjs/learn-dio-dino)
