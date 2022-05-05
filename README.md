@@ -8,4 +8,8 @@ Hub for [Órbi](https://orbi.co/) Web Games Developer bootcamp at <https://www.d
 
 ### Tic Tac Toe (Jogo da Velha)
 
+Play the game: [maxdevjs.github.io/learn-orbi-web-game-developer-tic-tac-toe](https://maxdevjs.github.io/learn-orbi-web-game-developer-tic-tac-toe/)
+
+or check the code (click on the image below 👇):
+
 [![screenshot](./img/01-basic-css-cosmetic.png?raw=true "screenshot")](https://github.com/maxdevjs/learn-orbi-web-game-developer-tic-tac-toe)
