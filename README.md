@@ -22,6 +22,14 @@ or, to play the game, click on the image below 👇:
 
 [![screenshot](./img/ships.png?raw=true "screenshot")](https://maxdevjs.github.io/learn-orbi-web-game-developer-ships-game/)
 
+### Space Shooter
+
+Check the code: [maxdevjs/learn-dio-space-shooter](https://github.com/maxdevjs/learn-dio-space-shooter)
+
+or, to play the game, click on the image below 👇:
+
+[![screenshot](./img/start.png?raw=true "screenshot")](https://maxdevjs.github.io/learn-dio-space-shooter/)
+
 ### Dino
 
 Check the code: [maxdevjs/learn-dio-dino](https://github.com/maxdevjs/learn-dio-dino)
